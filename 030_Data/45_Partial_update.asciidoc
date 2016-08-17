@@ -69,7 +69,7 @@ Retrieving the document shows the updated `_source` field:
 
 <1> Our new fields have been added to the `_source`.
 
-==== Using Scripts to Make Partial Updates
+==== Using Groovy Scripts to Make Partial Updates
 
 
 Scripts can be used in the `update` API to change the contents of the `_source`
